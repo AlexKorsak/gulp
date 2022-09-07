@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/AlexKorsak/gulp#readme",
   "devDependencies": {
+    "browser-sync": "^2.27.10",
     "gulp": "^4.0.2"
   }
 }
