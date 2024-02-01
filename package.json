@@ -1,0 +1,23 @@
+{
+  "name": "gulpbuild",
+  "version": "1.0.1",
+  "description": "Custom gulp build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexKorsak/gulp.git"
+  },
+  "author": "Alexandr Korsak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexKorsak/gulp/issues"
+  },
+  "homepage": "https://github.com/AlexKorsak/gulp#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.10",
+    "gulp": "^4.0.2"
+  }
+}
